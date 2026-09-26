@@ -21,7 +21,7 @@ from datetime import datetime, date
 
 import requests
 
-HEADERS = {"User-Agent": "JongwonLim Research jongwon.research@example.com"}
+HEADERS = {"User-Agent": "ggzang@gmail.com"}
 SEC_SLEEP = 0.12
 
 # 수집 범위 (기본값 - 필요시 조정)
